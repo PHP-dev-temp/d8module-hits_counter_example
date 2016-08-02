@@ -1,0 +1,7 @@
+bets_calculator.form:
+  path: '/counter'
+  defaults:
+    _form: 'Drupal\hits_counter_example\Form\HitsCounterExampleForm'
+    _title: 'Hits Counter example'
+  requirements:
+    _permission: 'access content'
